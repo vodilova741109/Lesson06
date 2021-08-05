@@ -64,14 +64,3 @@ function guessNumber(i){
 guessNumber(10);
 
 
-//   function countdown(i) {
-//     checNumber(9);
-//     i--;
-//     alert(i);
-//     if( i > 0){
-//         countdown(i);
-//     }
-  
-//   }    
-//   countdown(10);
-// 
